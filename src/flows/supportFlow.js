@@ -1,4 +1,4 @@
-import { addKeyword } from '@builderbot/bot';
+/*import { addKeyword } from '@builderbot/bot';
 
 export const supportFlow = addKeyword(['soporte', 'contacto', 'ayuda'])
     .addAnswer(
@@ -20,4 +20,4 @@ export const supportFlow = addKeyword(['soporte', 'contacto', 'ayuda'])
             if (option === '0') return endFlow('¡Gracias por contactarnos! 👋');
             return gotoFlow(supportFlow);
         }
-    );
+    );*/

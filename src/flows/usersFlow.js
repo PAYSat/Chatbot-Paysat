@@ -1,4 +1,4 @@
-import { addKeyword } from '@builderbot/bot';
+/*import { addKeyword } from '@builderbot/bot';
 
 export const usersFlow = addKeyword(['1', 'usuarios', 'personas naturales'])
     .addAnswer(
@@ -214,4 +214,4 @@ const ventajasIBANFlow = addKeyword(['ventajas iban'])
             if (option === '0') return endFlow('¡Gracias por contactarnos! 👋');
             return gotoFlow(opcionNoDisponibleFlow);
         }
-    );
+    );*/
