@@ -14,9 +14,12 @@
     "@builderbot/bot": "1.2.5",
     "@builderbot/database-postgres": "1.2.5",
     "@builderbot/provider-twilio": "1.2.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
     "fs": "^0.0.1-security",
     "openai": "^4.85.1",
-    "pdf-parse": "^1.1.1"
+    "pdf-parse": "^1.1.1",
+    "twilio": "^5.4.4"
   },
   "devDependencies": {
     "eslint": "^8.57.0",
