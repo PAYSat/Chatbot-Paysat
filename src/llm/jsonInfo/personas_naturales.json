@@ -1,0 +1,106 @@
+{
+    "tarjeta_visa": {
+        "descripcion": "Con nuestra tarjeta VISA PAYSAT, puedes realizar compras en línea y en tiendas físicas en cualquier parte del mundo con total seguridad y conveniencia. Además, disfruta de beneficios exclusivos y protección avanzada.",
+        "como_obtener": [
+            "Regístrate en nuestra plataforma completando el formulario de verificación.",
+            "Elige el tipo de tarjeta: física o virtual según tu preferencia.",
+            "Solicita tu tarjeta y verifica tu identidad para mayor seguridad.",
+            "Recibe tu tarjeta en tu domicilio o actívala de inmediato si es virtual."
+        ],
+        "opciones_recarga": [
+            "Transferencias bancarias locales e internacionales.",
+            "Tarjetas de crédito o débito de distintas redes.",
+            "Criptomonedas, incluyendo Bitcoin, Ethereum y USDT.",
+            "Puntos de pago autorizados en tu localidad.",
+            "Depósitos directos desde tu cuenta IBAN PAYSAT."
+        ],
+        "beneficios": [
+            "Protección contra fraudes y seguros de compra en transacciones elegibles.",
+            "Recargas flexibles y en tiempo real desde múltiples fuentes.",
+            "Uso en cualquier lugar del mundo que acepte VISA.",
+            "Acceso a promociones exclusivas y descuentos en comercios aliados.",
+            "Soporte 24/7 para consultas y asistencia en caso de emergencia."
+        ],
+        "tarifas": {
+            "emision": "Gratuita para la tarjeta virtual, tarifa aplicable para la tarjeta física.",
+            "mantenimiento": "Sin costo mensual para saldos mínimos, tarifas bajas para uso activo.",
+            "retiros_cajero": "Tarifa fija por retiros internacionales, gratuita en cajeros aliados.",
+            "conversion_divisas": "Tipo de cambio competitivo con una comisión mínima."
+        },
+        "seguridad": {
+            "autenticacion": "Verificación en dos pasos (2FA) para acceso seguro.",
+            "bloqueo_tarjeta": "Bloquea o desbloquea tu tarjeta desde la app en caso de pérdida o robo.",
+            "alertas": "Notificaciones instantáneas para cada transacción realizada."
+        }
+    },
+    "cuenta_iban": {
+        "descripcion": "Con nuestra cuenta IBAN PAYSAT, puedes manejar múltiples monedas en una sola cuenta y realizar pagos internacionales de forma rápida y segura. Ideal para personas y empresas que operan a nivel global.",
+        "como_obtener": [
+            "Regístrate en nuestra plataforma proporcionando tus datos personales.",
+            "Solicita la apertura de una cuenta IBAN y elige las monedas que deseas manejar.",
+            "Verifica tu identidad mediante documentos oficiales.",
+            "Recibe los datos de tu cuenta en minutos y comienza a operar."
+        ],
+        "ventajas": [
+            "Acceso global: Realiza pagos y transferencias en múltiples monedas sin complicaciones.",
+            "Facilidad de uso: Gestiona tus finanzas desde una sola plataforma intuitiva.",
+            "Seguridad avanzada: Protección contra fraudes y cumplimiento normativo estricto.",
+            "Conversión de divisas competitiva con tasas de cambio en tiempo real.",
+            "Soporte para transferencias SEPA y SWIFT."
+        ],
+        "tarifas": {
+            "apertura": "Sin costo de apertura para cuentas personales, tarifas preferenciales para empresas.",
+            "mantenimiento": "Sin comisiones mensuales con un saldo mínimo requerido.",
+            "transferencias_internacionales": "Tarifa fija o porcentual según el destino y la moneda.",
+            "conversion_divisas": "Margen competitivo sobre el tipo de cambio interbancario."
+        },
+        "seguridad": {
+            "verificacion_identidad": "Proceso de verificación KYC (Conoce a tu Cliente) robusto.",
+            "autenticacion": "Inicio de sesión seguro con autenticación biométrica o 2FA.",
+            "seguro_deposito": "Fondos protegidos bajo regulaciones financieras internacionales."
+        }
+    },
+    "servicios_adicionales": {
+        "pagos_transfronterizos": {
+            "descripcion": "Simplifica los pagos internacionales con tarifas competitivas y rapidez en las transacciones.",
+            "beneficios": [
+                "Reducción de costos de transacción en pagos internacionales.",
+                "Liquidación casi en tiempo real con rastreo de transferencias.",
+                "Compatibilidad con múltiples monedas y opciones de conversión instantánea.",
+                "Soporte dedicado para consultas sobre pagos internacionales."
+            ],
+            "tarifas": {
+                "envio_dinero": "Tarifa competitiva basada en el monto y destino del envío.",
+                "recepcion_dinero": "Sin costo para recibir pagos en la cuenta IBAN.",
+                "conversion_divisas": "Tipo de cambio actualizado con tarifas transparentes."
+            }
+        },
+        "liquidacion_usdt": {
+            "descripcion": "Recibe pagos en USDT (stablecoin) y conviértelos fácilmente a tu moneda local con tasas competitivas.",
+            "beneficios": [
+                "Mayor estabilidad y menor exposición a la volatilidad de la moneda local.",
+                "Conversión flexible de USDT a múltiples monedas locales.",
+                "Integración con la cuenta IBAN para mayor conveniencia.",
+                "Transacciones rápidas y seguras con soporte 24/7."
+            ],
+            "tarifas": {
+                "recepcion_usdt": "Sin costo para recibir pagos en USDT.",
+                "conversion_moneda_local": "Tarifa competitiva sobre el tipo de cambio vigente."
+            }
+        },
+        "acceso_tiempo_real": {
+            "descripcion": "Accede a saldos y transacciones en tiempo real desde cualquier dispositivo.",
+            "beneficios": [
+                "Visibilidad completa de las operaciones financieras en todo momento.",
+                "Control total de tus finanzas con notificaciones personalizadas.",
+                "Informes detallados de transacciones y exportación a formatos contables.",
+                "Soporte multimoneda para un seguimiento global de tus finanzas."
+            ],
+            "caracteristicas": [
+                "Alertas en tiempo real para movimientos de cuenta.",
+                "Compatibilidad con dispositivos móviles y web.",
+                "Historial de transacciones ilimitado y acceso a reportes financieros."
+            ]
+        }
+    }
+}
