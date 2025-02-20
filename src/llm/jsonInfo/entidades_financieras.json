@@ -1,0 +1,86 @@
+{
+  "servicio_iban_tarjetas": {
+    "descripcion": "Ofrecemos cuentas IBAN multidivisa y emisión de tarjetas de crédito/débito para entidades financieras y no financieras, permitiendo una gestión eficiente de fondos a nivel global con total flexibilidad y seguridad.",
+    "beneficios": [
+      "Integración fluida con marketplaces y pasarelas de pago líderes en el mercado.",
+      "Pagos SEPA y SWIFT en más de 35 países con tarifas competitivas y tiempos de procesamiento rápidos.",
+      "Automatización avanzada de la conversión de divisas en tiempo real, optimizando costos y minimizando riesgos.",
+      "Acceso a reportes financieros detallados y en tiempo real para un análisis exhaustivo de las transacciones.",
+      "Soporte dedicado para integración técnica y consultas operativas, garantizando un funcionamiento continuo."
+    ],
+    "como_funciona": [
+      "Los clientes pueden solicitar cuentas IBAN y tarjetas desde un portal integrado y personalizable.",
+      "Procesamos la incorporación de clientes con verificación KYC/AML avanzada, garantizando el cumplimiento normativo.",
+      "Ofrecemos notificaciones instantáneas de pagos entrantes y salientes, mejorando la transparencia financiera.",
+      "Compatibilidad con API para integraciones personalizadas según necesidades corporativas.",
+      "Opciones de marca blanca para entidades que deseen ofrecer servicios financieros personalizados a sus clientes."
+    ],
+    "tarifas": {
+      "emision_tarjetas": "Tarifa variable según volumen y personalización de tarjetas.",
+      "mantenimiento_cuentas": "Costo mensual basado en el tipo de cuenta y servicios adicionales.",
+      "transferencias_internacionales": "Tarifas competitivas para pagos SEPA y SWIFT.",
+      "conversion_divisas": "Margen competitivo sobre el tipo de cambio interbancario."
+    }
+  },
+  "plataforma_emision_tarjetas": {
+    "descripcion": "Emitimos tarjetas Visa Credit y Visa Debit en todo el mundo, con restricciones geográficas limitadas y total flexibilidad para las entidades, permitiendo la gestión de pagos y gastos de manera eficiente.",
+    "beneficios": [
+      "Sin límite en la cantidad de fondos que se pueden cargar o gastar, adaptándose a las necesidades empresariales.",
+      "Combinación con cuentas IBAN para transferencias instantáneas y seguras.",
+      "Personalización completa de programas de tarjetas: diseño, límites y recompensas personalizadas.",
+      "Integración con sistemas ERP y CRM para una gestión financiera eficiente.",
+      "Soporte multimoneda para compras y retiros en cualquier lugar del mundo."
+    ],
+    "caracteristicas": {
+      "gestion_tarjetas": "Control total desde el portal para activación, bloqueo y seguimiento de transacciones.",
+      "seguridad": "Tecnología avanzada de tokenización y autenticación 3D Secure.",
+      "reporte_financiero": "Informes detallados de uso y análisis de gasto en tiempo real."
+    },
+    "tarifas": {
+      "emision": "Tarifa única por emisión y activación de tarjetas físicas o virtuales.",
+      "mantenimiento": "Costo mensual para la gestión y soporte de tarjetas activas.",
+      "transacciones_internacionales": "Tarifa competitiva por conversión de divisas y pagos en el extranjero."
+    }
+  },
+  "servicios_entidades": {
+    "pagos_transfronterizos": {
+      "descripcion": "Simplificamos los pagos internacionales para entidades, reduciendo retrasos y costos de transacción con alta eficiencia y transparencia.",
+      "beneficios": [
+        "Soporte para más de 150 monedas, incluyendo criptomonedas para pagos innovadores.",
+        "Liquidación casi en tiempo real con rastreo de transacciones para mayor control financiero.",
+        "Reducción significativa de costos operativos y comisiones bancarias.",
+        "Integración con plataformas de comercio electrónico y marketplaces globales."
+      ],
+      "tarifas": {
+        "envio_dinero": "Tarifa basada en el monto y destino del envío.",
+        "conversion_divisas": "Margen competitivo sobre el tipo de cambio."
+      }
+    },
+    "cumplimiento_normativo": {
+      "descripcion": "Garantizamos el cumplimiento de regulaciones internacionales, incluyendo PSD2, CDPR, y KYC/AML, con actualizaciones continuas para adaptarse a cambios legislativos.",
+      "beneficios": [
+        "Reducción de riesgos operativos y cumplimiento normativo automatizado.",
+        "Transacciones seguras y transparentes con auditorías detalladas.",
+        "Monitoreo continuo de riesgos y alertas personalizadas."
+      ],
+      "caracteristicas": {
+        "verificacion_identidad": "Verificación avanzada mediante IA para KYC/AML, acelerando el proceso de incorporación.",
+        "reportes_cumplimiento": "Informes personalizados para auditorías y cumplimiento normativo.",
+        "seguridad_datos": "Protección de datos con cifrado de extremo a extremo y políticas de acceso restringido."
+      }
+    },
+    "liquidacion_usdt": {
+      "descripcion": "Permitimos a los comerciantes recibir pagos en USDT y convertirlos a su moneda local de manera eficiente y segura, mejorando el flujo de caja.",
+      "beneficios": [
+        "Mayor control financiero con estabilidad en criptomonedas evitando la volatilidad local.",
+        "Agilización de operaciones comerciales con liquidación inmediata y segura.",
+        "Conversión flexible a múltiples monedas locales con tasas competitivas.",
+        "Soporte dedicado para consultas sobre pagos en criptomonedas."
+      ],
+      "tarifas": {
+        "recepcion_usdt": "Sin costo para recibir pagos en USDT.",
+        "conversion_moneda_local": "Tarifa competitiva sobre el tipo de cambio vigente."
+      }
+    }
+  }
+}
